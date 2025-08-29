@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "nome": "Pipoca Doce",
+    "dica": "Sujestão: Diminua a quantidade de açucar inserida, e ao final da receita, adicione leite ninho e leite condensado por cima",
+    "tempo": 6,
+    "receita": "Você presisa de: óleo, milho de pipoca, acuçar (até cobrir as sementes) e panela. Adicione tudo na panela junto, ascenda em fogo alto, mexa até estar pronto e sirva",
+    "urlImagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6PFoZ_i_nOZR9l1ix9tjJdIFm5N9AB5oSQ&s"
+    
+
+  },
+  {
+    "id": 2,
+    "nome": "Salame artesanal italiano",
+    "dica": "Sujestão: Adicione alguns cubos de gordura pequenos antes de defumar, para realçar o sabor ",
+    "tempo": 80,
+    "receita": "(nota, leve em conta quanto você quer fazer) Você irá utilizar: 60% de carne suina, 20% gordura de porco (barriga), 20% carne bovina, sal, pimenta, acuçar(1/2 da quantidade de acuçar), pimenta do reino, 50 ml vinho tinto, e tripa colágeno/natural para 'embalar' nosso salame,maquína de triturar carne. Misture tudo, e defume o salame por 1-2 semanas. ",
+    "urlImagem":" https://53662.cdn.simplo7.net/static/53662/sku/172554793917981.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Sakerita de Maracujá",
+    "dica": "Sujestão: Adicione ao menos 1 suco de limão a mais para um sabor mais forte",
+    "tempo": 15,
+    "receita": "Você presisará de: 100ml de sake, 2 polpas de maracujá, 1 suco de limão, gelo e acuçar (2 colheres de sopa). Misture tudo, e ao final adicione mais gelo.",
+    "urlImagem":" https://i.ytimg.com/vi/7gEBHWG_D-Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD-50uJA5cUlqxAhWWn4YO1pwfr_Q"
+  },
+    {
+    "id": 4,
+    "nome": "Frango frito",
+    "dica": "Sujestão: Recomendado molho rose com batata frita",
+    "tempo": 190,
+    "receita": "Você presisa de: frango já temperado (a gosto), 1/2 xicara de farinha de trigo, 1/2 xicara de maizena, paprica defumada,2 ovos, 1 colher de sal e 1 lata de cerveja.  Misture a farinha, maizena, paprica, ovos, sal, e a cerveja; depois jogue o frango nessa mistura, e jogue o frango de novo em mais farinha com sal,  depois jogue no Óleo a fogo médio, e retire quando a 'casca' dourar bem.",
+    "urlImagem":" https://img-global.cpcdn.com/recipes/8df8fa2bd77a862c/680x781cq80/foto-principal-da-receita-frango-frito-estilo-americano-por-norali-carballo-argentina.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Batataliça",
+    "dica": "Sujestão: Faça um molho branco para acompanhar",
+    "tempo": 70,
+    "receita": "Necessário: 3-4 batatas, 3 pernas de linguiça, 150-200g de queijo mussarella. Cozinhe a batata em água bem salgada, até ficar mole mas ainda sólido, corte em rodelas de 1-2 cm de largura, depois tire a pele da linguiça, tempere como quiser ou compre já temperado, jogue as batas em uma forma, amasse a carne de linguiça e cubra cada batata com uma camada de linguiça (quase que um sanduiche de linguiça e batata), pegue o quijo e cubra tudo, jogue no forno e deixe até o quijo começar a fazer uma crosta crocante.","urlImagem":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VaTwjOis7qG7SthU3WoQvhVHTZw-211ECQ&s"
+  }
+]
