@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   },
 
   textTitle: {
-    fontSize: 40,
+    fontSize: 35,
   },
 
   title: {
